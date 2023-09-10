@@ -1,0 +1,12 @@
+D:\DotNet\Phase_04\Day_01\ClassLogin\bin\Debug\net6.0\ClassLogin.deps.json
+D:\DotNet\Phase_04\Day_01\ClassLogin\bin\Debug\net6.0\ClassLogin.pdb
+D:\DotNet\Phase_04\Day_01\ClassLogin\obj\Debug\net6.0\ClassLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Phase_04\Day_01\ClassLogin\obj\Debug\net6.0\ClassLogin.AssemblyInfoInputs.cache
+D:\DotNet\Phase_04\Day_01\ClassLogin\obj\Debug\net6.0\ClassLogin.AssemblyInfo.cs
+D:\DotNet\Phase_04\Day_01\ClassLogin\obj\Debug\net6.0\ClassLogin.csproj.CoreCompileInputs.cache
+D:\DotNet\Phase_04\Day_01\ClassLogin\obj\Debug\net6.0\ClassLogin.dll
+D:\DotNet\Phase_04\Day_01\ClassLogin\obj\Debug\net6.0\refint\ClassLogin.dll
+D:\DotNet\Phase_04\Day_01\ClassLogin\obj\Debug\net6.0\ClassLogin.pdb
+D:\DotNet\Phase_04\Day_01\ClassLogin\obj\Debug\net6.0\ref\ClassLogin.dll
+D:\DotNet\Phase_04\Day_01\ClassLogin\obj\Debug\net6.0\ClassLogin.csproj.AssemblyReference.cache
+D:\DotNet\Phase_04\Day_01\ClassLogin\obj\Debug\net6.0\ClassLogin.csproj.CopyComplete
